@@ -1,0 +1,12 @@
+.page {
+  background-color: rgb(241, 162, 162);
+  width: 100vw;
+  height: 100vh;
+}
+
+.dot {
+  background: red;
+  width: 10px;
+  height: 10px;
+  position: fixed;
+}
